@@ -2,7 +2,7 @@
 
 /* Add an image to the jumbotron. */
 .jumbotron {
-    background-image: url("../images/light.jpeg");
+    background-image: url("../images/img.jpeg");
     background-size: 100% 100%;
     text-align: center;
   }
