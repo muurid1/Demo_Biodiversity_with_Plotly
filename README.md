@@ -7,14 +7,34 @@ Biodiversity Dashboard using plotly.js, html, css, js, d3 and bootstrap to creat
 
 ## Overview of the Project
 
+In this project, we will be building an interactive dashboard to explore the Belly Button Biodiversity dataset, which will catalogue the microbes that colonize human navels by using Plotly and D3.js libraries.
 
 ### Resources
 
 #### Software
 
+• Javascript
+
+• HTML/CSS
+
+• VS Code
+
+• ES6+
+
+• ECMAScript
+
 
 #### Data Source
 
+• BellyButton_bar_chart_starter_code.js
+ 
+• BellyButton_bubble_chart_starter_code.js
+ 
+• BellyButton_bubble_chart_starter_code.js
+ 
+• samples.json
+ 
+• index.html
 
 ## Results
 
