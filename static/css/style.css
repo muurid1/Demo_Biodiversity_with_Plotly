@@ -1,7 +1,10 @@
 /* my css style sheet */
-
+h4 {
+    font-weight:bold;
+}
 /* Add an image to the jumbotron. */
 .jumbotron {
+    color: white;
     background-image: url("../images/img.jpeg");
     background-size: 100% 100%;
     text-align: center;
