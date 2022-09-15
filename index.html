@@ -21,9 +21,11 @@
 
       <!-- start of nav bar -->
       <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-        <a class="navbar-brand" href="https://github.com/muurid1/Demo_Biodiversity_with_Plotly">Link to Github Repository
+        <a class="navbar-brand" href="https://github.com/muurid1/Demo_Biodiversity_with_Plotly">Link to Github Repository</a>
       </nav>
       
+      <!-- Add more information about the project as a paragraph on the page. -->
+      <h4>Purpose of Dashboard is to investigate the sample to identify the sample data available to look at top bacterial species for each belly button bacteria sample. The goal is to identify a potential bacteria candidate for improbable Beef.<h4>
 
       <!-- jumbotron -->
       <section class="jumbotron_section">
@@ -31,7 +33,8 @@
           <div class="col-md-12 jumbotron text-center">
             <h1>Belly Button Biodiversity Dashboard</h1>
             <p>Use the interactive charts below to explore the dataset</p>
-          </div>
+        
+          
         </div>
       </section>
 
@@ -40,7 +43,7 @@
         <div class="row">
       
           <!-- pulldown menu and metadata -->
-          <div class="col-md-2">
+          <div class="col-md-3">
           
           <!-- pulldown menu -->
           <div class="well">
@@ -54,6 +57,8 @@
               <h3 class="panel-title">Demographic Info</h3>
             </div>
             <div id="sample-metadata" class="panel-body"></div>
+            <div class="panel-footer">Note: WFREQ is used in the gauge to the right</div>
+            <div class="panel-footer">Note: WFREQ is used in the gauge to the right</div>
           </div>
         </div>
         
@@ -63,7 +68,7 @@
         </div>
         
         <!-- gauge chart -->
-        <div class="col-md-5">
+        <div class="col-md-4">
           <div id="gauge"></div>
         </div>
       </div>
