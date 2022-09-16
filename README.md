@@ -40,15 +40,28 @@ In this project, we will be building an interactive dashboard to explore the Bel
 
 ##### Horizontal Bar Chart
 
+The horizontal bar chart below displays the top 10 bacterial species.
+
 <img width="428" alt="Bar_Chart" src="https://user-images.githubusercontent.com/107282754/190304463-4c580f3e-bb06-4c52-afd9-d718c9a4d7a7.png">
+
+
+##### Bubble Chart
+ The bubble chart
+ 
+ Use otu_ids for the x values.
+
+Use sample_values for the y values.
+
+Use sample_values for the marker size.
+
+Use otu_ids for the marker colors.
+
+Use otu_labels for the text values
+<img width="1076" alt="Bubble_Chart" src="https://user-images.githubusercontent.com/107282754/190304538-d4ce05c6-52cb-4856-b294-42f453041adc.png">
 
 ##### Gauge Chart
 
 <img width="423" alt="Gauge_Chart" src="https://user-images.githubusercontent.com/107282754/190304493-b5f333c9-9c98-4b29-816b-668da9aea30e.png">
-
-##### Bubble Chart
-
-<img width="1076" alt="Bubble_Chart" src="https://user-images.githubusercontent.com/107282754/190304538-d4ce05c6-52cb-4856-b294-42f453041adc.png">
 
 ##### Customization of the webpage
 
