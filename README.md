@@ -40,7 +40,7 @@ In this project, we will be building an interactive dashboard to explore the Bel
 
 ##### Horizontal Bar Chart
 
-The horizontal bar chart below displays the top 10 bacterial species.
+This horizontal bar chart displays the top 10 bacterial species (OTUs) when an individual’s ID is selected from the dropdown menu on the webpage. It, also displays the sample_values as the values, the otu_ids as the labels, and the otu_labels as the hover text for the bars on the chart.
 
 <img width="428" alt="Bar_Chart" src="https://user-images.githubusercontent.com/107282754/190304463-4c580f3e-bb06-4c52-afd9-d718c9a4d7a7.png">
 
@@ -65,7 +65,6 @@ The bubble chart below displays the following when an individual’s ID is selec
 
 The gauge chart displays the weekly washing frequency's value and the value as a measure from 0-10 on the progress bar in the gauge chart when an individual ID is selected from the dropdown menu
 
-<img width="423" alt="Gauge_Chart" src="https://user-images.githubusercontent.com/107282754/190538206-97398b51-3cc5-4350-a3ae-fdd7bdc7801c.png">
 
 
 ##### Customization of the webpage
@@ -76,6 +75,5 @@ The dashboard was customized, and we added an image to the jumbotron, changed th
 
 <img width="681" alt="Website_Page_Screenshot" src="https://user-images.githubusercontent.com/107282754/190304611-6b566a66-34f8-425a-a5c4-230263f1a99d.png">
 
-## Summary
 
  
