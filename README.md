@@ -63,9 +63,9 @@ The bubble chart below displays the following when an individual’s ID is selec
 
 ##### Gauge Chart
 
-The gauge chart displays the weekly washing frequency's value and the value as a measure from 0-10 on the progress bar in the gauge chart when an individual ID is selected from the dropdown menu
+The gauge chart displays the weekly washing frequency's value and the value as a measure from 0-10 on the progress bar in the gauge chart when an individual ID is selected from the dropdown menu.
 
-
+<img width="423" alt="Gauge_Chart" src="https://user-images.githubusercontent.com/107282754/190695682-88e44ce9-05a9-469c-a118-9fbb031a60df.png">
 
 ##### Customization of the webpage
 
