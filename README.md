@@ -46,24 +46,33 @@ The horizontal bar chart below displays the top 10 bacterial species.
 
 
 ##### Bubble Chart
- The bubble chart
  
- Use otu_ids for the x values.
+The bubble chart below displays the following when an individual’s ID is selected from the dropdown menu webpage:
+ 
+• otu_ids for the x values.
 
-Use sample_values for the y values.
+• sample_values for the y values.
 
-Use sample_values for the marker size.
+• sample_values for the marker size.
 
-Use otu_ids for the marker colors.
+• otu_ids for the marker colors.
 
-Use otu_labels for the text values
+• otu_labels for the hover-text values
+
 <img width="1076" alt="Bubble_Chart" src="https://user-images.githubusercontent.com/107282754/190304538-d4ce05c6-52cb-4856-b294-42f453041adc.png">
 
 ##### Gauge Chart
 
-<img width="423" alt="Gauge_Chart" src="https://user-images.githubusercontent.com/107282754/190304493-b5f333c9-9c98-4b29-816b-668da9aea30e.png">
+The gauge chart displays the weekly washing frequency's value and the value as a measure from 0-10 on the progress bar in the gauge chart when an individual ID is selected from the dropdown menu
+
+<img width="423" alt="Gauge_Chart" src="https://user-
+                                        images.githubusercontent.com/107282754/190304493-b5f333c9-9c98-4b29-816b-668da9aea30e.png">
 
 ##### Customization of the webpage
+
+The dashboard was customized, and we added an image to the jumbotron, changed the background color and the font, a paragraph with more information was added as well and a navigation bar for a selecdtion of the bar pr bubble chart.
+
+###### New_Layout_of_the_page
 
 <img width="681" alt="Website_Page_Screenshot" src="https://user-images.githubusercontent.com/107282754/190304611-6b566a66-34f8-425a-a5c4-230263f1a99d.png">
 
